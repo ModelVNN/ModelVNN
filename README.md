@@ -1,4 +1,4 @@
-![welcome](https://imgur.com/7xx4uD2)<br/>
+![welcome](https://i.imgur.com/7xx4uD2.png)<br/>
 
 
 - Thích ngôn ngữ Javascript và python!
