@@ -11,6 +11,7 @@
 <img align="left" alt="js" width="26px" src="https://i.imgur.com/3u1wzwE.png" />
 <img align="left" alt="mongodb" width="26px" src="https://imgur.com/xN5cFRr.png" /> 
 <img align="left" alt="photoshop" width="26px" src="https://i.imgur.com/OC1RcS5.jpg" /> <br />
+ở đây không có python vì tui ko biết lập trình :v
 
 ---
 
