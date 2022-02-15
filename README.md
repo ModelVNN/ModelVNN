@@ -1,17 +1,15 @@
 ![welcome](https://avatars.githubusercontent.com/u/86113173?s=120&v=4)<br/>
 
 
-- Thích ngôn ngữ Javascript và python!
+- Thích ngôn ngữ Javascript!
 - Developer tự học <br/>
 
 ### Ngôn ngữ và phần mềm:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://i.imgur.com/LwSdAlE.png" />
-<img align="left" alt="ts" width="26px" src="https://i.imgur.com/vSgFULR.png" />
 <img align="left" alt="js" width="26px" src="https://i.imgur.com/3u1wzwE.png" />
 <img align="left" alt="mongodb" width="26px" src="https://imgur.com/xN5cFRr.png" /> 
 <img align="left" alt="photoshop" width="26px" src="https://i.imgur.com/OC1RcS5.jpg" /> <br />
-ở đây không có python vì tui ko biết lập trình :v
 
 ---
 
