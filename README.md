@@ -1,10 +1,10 @@
-![welcome](https://avatars.githubusercontent.com/u/86113173?s=120&v=4)<br/>
+![image](https://github.com/ModelVNN/ModelVNN/assets/86113173/2a053aa9-597d-4b1d-b578-7c2f0489bc6b)![welcome]()<br/>
 
+- <img alt="Vietnam Flag" src="https://i.imgur.com/0Cnezs4.png"> Vietnamese coder
+- <img alt="Discord.js" src="https://avatars.githubusercontent.com/u/26492485?s=200&v=4"> Discord.js / Nodejs Coder
+- 1x years old <br/>
 
-- Thích ngôn ngữ Javascript!
-- Developer tự học <br/>
-
-### Ngôn ngữ và phần mềm:
+### Language || programs:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://i.imgur.com/LwSdAlE.png" />
 <img align="left" alt="js" width="26px" src="https://i.imgur.com/3u1wzwE.png" />
@@ -23,5 +23,3 @@
 </a>
 </details> -->
 
-
-**© [Minhh](https://github.com/ModelVNN)**
